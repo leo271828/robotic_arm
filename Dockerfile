@@ -34,4 +34,3 @@ RUN chmod +x /entrypoint.sh
 
 # Use the script as the entrypoint
 ENTRYPOINT ["/entrypoint.sh"]
-  
